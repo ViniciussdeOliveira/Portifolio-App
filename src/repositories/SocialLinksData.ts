@@ -1,4 +1,4 @@
-import { SocialLink } from '../models/SocialLinks-Model';
+import { SocialLink } from '../models/SocialLinksModel';
 
 const SocialLinksData: SocialLink[] = [
   {

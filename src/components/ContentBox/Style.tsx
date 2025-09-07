@@ -1,21 +1,26 @@
 import { StyleSheet } from 'react-native';
 
-export const styles = StyleSheet.create({
+const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#aaaaaaff',
+    backgroundColor: '#f0f0f0',
     padding: 16,
     borderRadius: 8,
     marginBottom: 15,
     flexDirection: 'row',
     alignItems: 'center',
     borderWidth: 1,
-    borderColor: '#aaaaaaff',
+    borderColor: '#ddd',
     width: '90%',
-    marginTop: 30,
   },
-  texto: {
-    fontSize: 21,
-    color: '#000',
+  label: {
+    fontSize: 16,
     fontWeight: 'bold',
-  }
+    color: '#333',
+  },
+  value: {
+    fontSize: 16,
+    color: '#000',
+  },
 });
+
+export default styles;
