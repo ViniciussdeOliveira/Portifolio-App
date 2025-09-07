@@ -1,8 +1,7 @@
-import HomeScreen from "./src/screens/Home/HomeScreen";
-import SkillScreen from "./src/screens/SkillScreen/SkillScreen";
+import { AppRoutes } from "./src/routes";
 
 export default function App() {
   return (
-    <SkillScreen />
+    <AppRoutes />
   );
 }
