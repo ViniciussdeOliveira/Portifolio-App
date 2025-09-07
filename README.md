@@ -16,8 +16,6 @@ Com base nas tecnologias utilizadas, o aplicativo inclui as seguintes funcionali
 
 ## Screenshots
 
-Adicione imagens das telas aqui:
-
 <img src="./assets/Home.png" alt="Home" width="200"/>
 <img src="./assets/Skills.png" alt="Skills" width="200"/>
 
